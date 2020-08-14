@@ -56,8 +56,6 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             buildButtons(),
             buildButtons(),
-            buildButtons(),
-            buildButtons(),
           ],
         ),
       ),
